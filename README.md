@@ -1,2 +1,2 @@
-# HAR-Time-Series-Analysis
-Comparison of classifiers on Human Activity Recognition
+# HAR Time Series Analysis
+Comparison of different classifiers on Human Activity Recognition
